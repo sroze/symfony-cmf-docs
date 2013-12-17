@@ -138,9 +138,11 @@ Note the following:
 * **Scope**: Must *always* be set to *prototype*;
 * **Tag**: The tag registers the service with the auto routing system, it can
   be one of the following:
+
     * ``cmf_routing_auto.exists.action`` - if the action is to be used when a
       path exists;
     * ``cmf_routing_auto.not_exists.action`` - if the action is to be used when
       a path does not exist;
+
 * **Alias**: The alias of the tag is the name by which you will reference this
   action in the auto routing configuration.
