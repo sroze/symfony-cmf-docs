@@ -5,7 +5,7 @@
 RoutingAutoBundle
 =================
 
-.. include:: _not-stable-caution.rst.inc
+.. include:: ../_not-stable-caution.rst.inc
 
     The RoutingAutoBundle allows you to define automatically created routes for
     documents.
