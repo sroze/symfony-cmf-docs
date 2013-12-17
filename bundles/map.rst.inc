@@ -38,9 +38,13 @@
   * :doc:`media/form_types`
   * :doc:`media/adapters/index`
 
-* **MenuBundle**
+* :doc:`menu/index`
 
-  * :doc:`menu/index`
+  * :doc:`menu/introduction`
+  * :doc:`menu/menu_documents`
+  * :doc:`menu/menu_factory`
+  * :doc:`menu/menu_provider`
+  * :doc:`menu/voters`
 
 * :doc:`routing/index`
 
@@ -48,9 +52,13 @@
   * :doc:`routing/dynamic`
   * :doc:`routing/dynamic_customize`
 
-* **RoutingAutoBundle**
+* :doc:`routing_auto/index`
 
-  * :doc:`routing_auto`
+  * :doc:`routing_auto/introduction`
+  * :doc:`routing_auto/providers`
+  * :doc:`routing_auto/exists_actions`
+  * :doc:`routing_auto/not_exists_actions`
+  * :doc:`routing_auto/customization`
 
 * :doc:`search/index`
 

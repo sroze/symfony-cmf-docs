@@ -86,7 +86,7 @@ to do it? In this case the reference is the right place for you.
     bundles/media/index
     bundles/menu/index
     bundles/routing/index
-    bundles/routing_auto
+    bundles/routing_auto/index
     bundles/search/index
     bundles/simple_cms/index
     bundles/doctrine_phpcr_admin
